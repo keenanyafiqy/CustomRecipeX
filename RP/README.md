@@ -1,7 +1,7 @@
 # Introduction
 ![An icon for the add-on](../images/PackIcon.png)
 
-Keen's Custom Recipe X Resource Pack
+#### Keen's Custom Recipe X Resource Pack
 
 The resource pack for Keen's Custom Recipe X
 # Purpose

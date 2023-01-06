@@ -1,7 +1,7 @@
 # Introduction
 ![An icon for the add-on](../images/PackIcon.png)
 
-Keen's Custom Recipe X Behavior Pack
+#### Keen's Custom Recipe X Behavior Pack
 
 The behavior pack for Keen's Custom Recipe X
 # Purpose
