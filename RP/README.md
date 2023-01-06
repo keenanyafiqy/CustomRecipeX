@@ -1,5 +1,5 @@
 # Introduction
-<img src="https://github.com/keenanyafiqy/CustomCraftingRecipeX/blob/main/images/PackIcon.png" alt="An icon for the add-on">
+![An icon for the add-on](../images/PackIcon.png)
 Keen's Custom Recipe X Resource Pack
 
 The resource pack for Keen's Custom Recipe X
