@@ -1,0 +1,25 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:deny"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            " A ",
+            "ABA",
+            " A "
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:stone"
+            },
+            "B": {
+                "item": "minecraft:bedrock"
+            }
+        },
+        "result": {
+            "item": "minecraft:deny"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:structure_block"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "ABA",
+            "CFD",
+            "AEA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:scaffolding"
+            },
+            "B": {
+                "item": "minecraft:diamond_block"
+            },
+            "C": {
+                "item": "minecraft:gold_block"
+            },
+            "D": {
+                "item": "minecraft:iron_block"
+            },
+            "E": {
+                "item": "minecraft:copper_block"
+            },
+            "F": {
+                "item": "minecraft:redstone"
+            }
+        },
+        "result": {
+            "item": "minecraft:structure_block"
+        }
+    }
+}

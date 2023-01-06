@@ -1,0 +1,25 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:netherite_sword"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "A",
+            "A",
+            "B"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:netherite_ingot"
+            },
+            "B": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "minecraft:netherite_sword"
+        }
+    }
+}

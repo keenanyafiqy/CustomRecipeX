@@ -1,0 +1,37 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:jigsaw"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "ABA",
+            "CFD",
+            "AEA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:scaffolding"
+            },
+            "B": {
+                "item": "minecraft:grass"
+            },
+            "C": {
+                "item": "minecraft:stone"
+            },
+            "D": {
+                "item": "minecraft:netherrack"
+            },
+            "E": {
+                "item": "minecraft:end_stone"
+            },
+            "F": {
+                "item": "minecraft:structure_block"
+            }
+        },
+        "result": {
+            "item": "minecraft:jigsaw"
+        }
+    }
+}

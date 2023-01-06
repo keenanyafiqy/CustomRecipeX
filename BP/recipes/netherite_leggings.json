@@ -1,0 +1,22 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:netherite_leggings"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "AAA",
+            "A A",
+            "A A"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:netherite_ingot"
+            }
+        },
+        "result": {
+            "item": "minecraft:netherite_leggings"
+        }
+    }
+}

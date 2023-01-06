@@ -1,0 +1,25 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:nether_portal"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            " A ",
+            "ABA",
+            " A "
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:obsidian"
+            },
+            "B": {
+                "item": "minecraft:flint_and_steel"
+            }
+        },
+        "result": {
+            "item": "minecraft:portal"
+        }
+    }
+}

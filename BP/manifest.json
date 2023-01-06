@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "This is a part 2 of Keen's Custom Crafting Recipe. This add-on has so many recipes than Keen's Custom Crafting Recipe Add-On",
+    "name": "Custom Crafting Recipe X Behavior Pack",
+    "uuid": "85536060-a7bd-4730-8077-8a7784572b0e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "description": "Custom Crafting Recipe X Behavior Pack",
+      "type": "data",
+      "uuid": "6e3cfb24-d8d3-45cf-8507-ce292a0e95df",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9291058e-05a5-4113-a6db-54c1e2c6fbab",
+      "version": [1, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:netherite_pickaxe"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "AAA",
+            " B ",
+            " B "
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:netherite_ingot"
+            },
+            "B": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "minecraft:netherite_pickaxe"
+        }
+    }
+}

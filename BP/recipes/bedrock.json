@@ -1,0 +1,21 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "ccrx:bedrock"
+        },
+        "priority": 0,
+        "ingredients": [
+            {
+                "item": "minecraft:bed"
+            },
+            {
+                "item": "minecraft:cobblestone"
+            }
+        ],
+        "result": {
+            "item": "minecraft:bedrock"
+        },
+        "tags": ["crafting_table"]
+    }
+}

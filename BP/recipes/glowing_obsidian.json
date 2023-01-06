@@ -1,0 +1,25 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:glowing_obsidian"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            " A ",
+            "ABA",
+            " A "
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:glowstone"
+            },
+            "B": {
+                "item": "minecraft:obsidian"
+            }
+        },
+        "result": {
+            "item": "minecraft:glowingobsidian"
+        }
+    }
+}

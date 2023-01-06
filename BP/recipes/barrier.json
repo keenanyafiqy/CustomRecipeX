@@ -1,0 +1,28 @@
+{
+    "format_version": "1.19",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "ccrx:barrier"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "ABA",
+            "BCB",
+            "ABA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:redstone"
+            },
+            "B": {
+                "item": "minecraft:redstone_torch"
+            },
+            "C": {
+                "item": "minecraft:bedrock"
+            }
+        },
+        "result": {
+            "item": "minecraft:barrier"
+        }
+    }
+}
