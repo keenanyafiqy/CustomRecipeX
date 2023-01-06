@@ -34,10 +34,34 @@ Because of the blocks and items that are unobtainable from Creative Inventory be
 
 So, here is the list of recipes for blocks or items that is hidden from Creative Inventory
 ### Allow
-To craft Allow, you need to collect 4 Stone and 1 Cobblestone. You need to follow the shape of the recipe or else it wouldn't work
-The shape of the recipe:
+The recipe is shaped. You will need to follow the shape or else it won't work.
 
+To craft Allow, you need to collect:
+- 4 Stone
+- 1 Cobblestone
+
+Follow these shape and then you will get one:
+
+![Allow recipe](images/AllowRecipe.png)
 ### Barrier
+The recipe is shaped, You will need to follow the shape or else it won't work.
+
+To craft Barrier, you need to collect:
+- 4 Redstone
+- 4 Redstone Torch
+- 1 Bedrock
+
+Follow these shape and then you will get one:
+### Bedrock
+### Border Block
+### Command Block
+### Deny
+### Enchanted Golden Apple
+### Experience Bottle
+### Glowing Obsidian
+### Invisible Bedrock
+### Jigsaw
+![Barrier recipe](images/BarrierRecipe.png)
 # Suggestions and Contributions
 If you have any suggestions for a new recipe or new recipe but for a new recipe type, just make a new issue on [Issues](https://github.com/keenanyafiqy/CustomRecipeX/issues/new/choose)!
 
