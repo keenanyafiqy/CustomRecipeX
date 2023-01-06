@@ -14,13 +14,13 @@ BUT, there is still an unobtainable block/an undestructible block YOU cannot pla
 ![Add-on cover](images/CoverAddOn.png)
 # Lists
 There are still an unobtainable block that you couldn't place in Survival, but placable in Creative. This add-on has been tested and the information must be correct.
-### Blocks that are unplacable:
+### Blocks that are unplacable in Survival
 - Allow
 - Border Block
 - Command Block
 - Deny
 - Structure Block
-### Blocks that are still placable:
+### Blocks that are still placable in Survival
 - Barrier
 - Glowing Obsidian
 - Invisible Bedrock
@@ -30,7 +30,20 @@ There are still an unobtainable block that you couldn't place in Survival, but p
 - Nether Reactor Core
 - Portal
 - Structure Void
-### Blocks that is still obtainable in Survival:
+### Blocks that is unbreakable in Survival
+- Allow
+- Barrier
+- Bedrock
+- Border Block
+- Command Block
+- Deny
+- Invisible Bedrock
+- Jigsaw
+- Light Block
+- Portal
+- Structure Block
+- Structure Void
+### Blocks that is still obtainable in Survival
 - Portal
 # Recipes
 ## Crafting Recipe
