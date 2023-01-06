@@ -10,6 +10,8 @@ An add-on that let's you craft an item that was ONLY OBTAINABLE in Creative Mode
 This add-on let's you flex, or trap the heck outta your friends.
 
 BUT, there is still an unobtainable block/an undestructible block YOU cannot place/cannot break on Survival Mode. So, make sure to be careful, or just flex to your friends.
+
+![Add-on cover](images/CoverAddOn.png)
 # Lists
 There are still an unobtainable block that you couldn't place in Survival, but placable in Creative. This add-on has been tested and the information must be correct.
 ### Blocks that are unplacable:
