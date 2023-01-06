@@ -44,7 +44,7 @@ Follow these shape and then you will get one:
 
 ![Allow recipe](images/AllowRecipe.png)
 ### Barrier
-The recipe is shaped, You will need to follow the shape or else it won't work.
+The recipe is shaped. You will need to follow the shape or else it won't work.
 
 To craft Barrier, you need to collect:
 - 4 Redstone
@@ -55,6 +55,15 @@ Follow these shape and then you will get one:
 
 ![Barrier recipe](images/BarrierRecipe.png)
 ### Bedrock
+The recipe is shapeless. You can craft the item at any shape you want.
+
+To craft Bedrock, you need to collect:
+- 1 Bed (any bed)
+- 1 Cobblestone
+
+Example:
+
+![Bedrock recipe](images/BedrockRecipe.png)
 ### Border Block
 ### Command Block
 ### Deny
@@ -69,26 +78,3 @@ If you have any suggestions for a new recipe or new recipe but for a new recipe 
 If you want to contribute for a new recipe or new recipe but for a new recipe type, just make a new pull request on [Pull requests](https://github.com/keenanyafiqy/CustomRecipeX/pull)!
 # Recommendations
 To make a new recipe without making it from scratch, you can visit [destruc7i0n's recipe generator website](https://crafting.thedestruc7i0n.ca) to generate one without having to painfully code and basically revisit the browser to get how the recipe should work.
-
-<details><summary>Links that are used</summary>
-  <ul dir="auto">
-    <li>
-      https://github.com/keenanyafiqy/CustomRecipeX/images/PackIcon.png
-    </li>
-  </ul>
-  <ul dir="auto">
-    <li>
-      https://github.com/keenanyafiqy/CustomRecipeX/issues/new/choose
-    </li>
-  </ul>
-  <ul dir="auto">
-    <li>
-      https://github.com/keenanyafiqy/CustomRecipeX/pull
-    </li>
-  </ul>
-  <ul dir="auto">
-    <li>
-      https://crafting.thedestruc7i0n.ca
-    </li>
-  </ul>
-</details>
