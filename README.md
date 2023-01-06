@@ -52,6 +52,8 @@ To craft Barrier, you need to collect:
 - 1 Bedrock
 
 Follow these shape and then you will get one:
+
+![Barrier recipe](images/BarrierRecipe.png)
 ### Bedrock
 ### Border Block
 ### Command Block
@@ -61,7 +63,6 @@ Follow these shape and then you will get one:
 ### Glowing Obsidian
 ### Invisible Bedrock
 ### Jigsaw
-![Barrier recipe](images/BarrierRecipe.png)
 # Suggestions and Contributions
 If you have any suggestions for a new recipe or new recipe but for a new recipe type, just make a new issue on [Issues](https://github.com/keenanyafiqy/CustomRecipeX/issues/new/choose)!
 
