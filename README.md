@@ -1,3 +1,5 @@
+This add-on is a new version of an add-on called Keen's Custom Crafting Recipe. [Check it out here](https://mcpedl.com/keens-custom-crafting-table-addon/)
+
 # Introduction
 ![An icon for the add-on](images/PackIcon.png)
 
