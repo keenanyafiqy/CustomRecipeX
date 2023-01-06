@@ -2,12 +2,12 @@
 name: Unrelated Recipe
 about: Recipe that is unrelated or is not the same as it should
 title: Unrelated Recipe
-labels: not related
+labels: unrelated
 assignees: ''
 
 ---
 
-## Recipe Name:
+# Recipe Name:
 
 
-## Explanation:
+# Explanation:

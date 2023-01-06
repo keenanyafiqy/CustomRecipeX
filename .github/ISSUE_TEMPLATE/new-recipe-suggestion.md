@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Recipe Name:
+# Recipe Name:
 
 
-## How it works:
+# How it works:
