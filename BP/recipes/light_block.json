@@ -14,7 +14,8 @@
             }
         ],
         "result": {
-            "item": "minecraft:light_block"
+            "item": "minecraft:light_block",
+            "data": 0
         },
         "tags": ["crafting_table"]
     }
