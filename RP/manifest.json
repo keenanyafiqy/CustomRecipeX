@@ -10,7 +10,7 @@
     "modules": [
         {
             "description": "Custom Recipe X Resource Pack",
-            "type": "data",
+            "type": "resources",
             "uuid": "1bbd767e-ae1a-4e9a-9d80-9132b4fe234b",
             "version": [1, 0, 0]
         }
