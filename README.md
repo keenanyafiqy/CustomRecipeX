@@ -13,7 +13,28 @@ BUT, there is still an unobtainable block/an undestructible block YOU cannot pla
 
 ![Add-on cover](images/CoverAddOn.png)
 # Lists
-There are still an unobtainable block that you couldn't place in Survival, but placable in Creative. This add-on has been tested and the information must be correct.
+### List of blocks that is craftable in this add-on:
+- Allow
+- Barrier
+- Bedrock
+- Border Block
+- Command Block
+- Deny
+- Enchanted Golden Apple
+- Experience Bottle
+- Glowing Obsidian
+- Invisible Bedrock
+- Jigsaw
+- Light Block (includes block data 15)
+- Mob Spawner
+- Name Tag
+- Portal
+- Nether Reactor Core
+- Full Netherite Tools, Armor, and Block
+- Structure Block
+- Structure Void
+
+There are still an unobtainable block that you couldn't place in Survival, but placable in Creative. This add-on has been tested and the information should be correct.
 ### Blocks that are unplacable in Survival
 - Allow
 - Border Block
@@ -46,6 +67,7 @@ There are still an unobtainable block that you couldn't place in Survival, but p
 ### Blocks that is still obtainable in Survival
 - Portal
 # Recipes
+This section is temporary. It will be moved to Wiki.
 ## Crafting Recipe
 Because of the blocks and items that are unobtainable from Creative Inventory because the blocks or items is hidden from the Creative Inventory, it affects the crafting book too. 
 
@@ -82,8 +104,37 @@ Example:
 
 ![Bedrock recipe](images/BedrockRecipe.png)
 ### Border Block
+The recipe is shaped. You will need to follow the shape or else it won't work.
+
+To craft Border Block, you need to collect:
+- 6 Barrier
+- 2 Redstone
+- 1 Cobblestone Wall
+
+Follow these shape and then you will get one:
+
+![Border Block recipe](images/BorderBlockRecipe.png)
 ### Command Block
+The recipe is shaped. You will need to follow the shape or else it won't work.
+
+To craft Command Block, you need to collect:
+- 4 Redstone
+- 4 Copper Block
+- 1 Redstone Torch
+
+Follow these shape and then you will get one:
+
+![Command Block recipe](images/CommandBlockRecipe.png)
 ### Deny
+The recipe is shaped. You will need to follow the shape or else it won't work.
+
+To craft Deny, you need to collect:
+- 4 Stone
+- 1 Bedrock
+
+Follow these shape and then you will get one:
+
+![Deny recipe](images/DenyRecipe.png)
 ### Enchanted Golden Apple
 ### Experience Bottle
 ### Glowing Obsidian
