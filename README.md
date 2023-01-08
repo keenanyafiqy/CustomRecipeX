@@ -14,7 +14,7 @@ BUT, there is still an unobtainable block/an undestructible block YOU cannot pla
 ![Add-on cover](images/CoverAddOn.png)
 # Lists
 For a full complete of list, you can visit [Lists Wiki page on Blocks and Items section](https://github.com/keenanyafiqy/CustomRecipeX/wiki/Lists#blocks-and-items)
-### List of blocks that is craftable in this add-on:
+### List of blocks that is craftable in this add-on
 - Allow
 - Barrier
 - Bedrock
