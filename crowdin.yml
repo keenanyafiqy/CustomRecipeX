@@ -1,0 +1,3 @@
+files:
+  - source: /RP/texts/en_US.lang
+    translation: /RP/texts/%locale_with_underscore%.lang
